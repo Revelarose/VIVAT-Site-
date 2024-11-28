@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FeedFix</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <header class="header" name = "header">
+        <div id = "headerDiv">
+            <img src="/images/fittinlogo.png" alt="Лого" id = "logoImage">
+
+        </div>
+        
+    </header>
+    <main>
+        <div id = "divB">
+            <input type="file" id="file" accept=".json" required>
+            <button id = "readFile">Загрузить файл</button>
+            <button id = "correctFile">Исправить файл</button>
+        </div>
+
+        <div id = "EACDiv">
+            <p id="pErorrs"">Ошибки</p>
+            <div id = "errors">
+                
+
+            </div>
+            <p id="pCorrections">Исправления</p>
+            <div id="corrections">
+
+            </div>
+        </div>
+    </main>
+    <script src="main.js"></script>
+</body>
+</html>

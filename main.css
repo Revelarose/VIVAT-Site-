@@ -1,0 +1,116 @@
+body
+{
+    padding: 0%;
+    margin: 0%;
+    background-color: #E7E7E7;
+}
+#logoImage
+{
+    height: 40px;
+    width: 164px;
+    margin-left: 129px;
+    margin-top: 26px;
+    margin-bottom: 26px;
+    margin-right: 1475px;
+
+}
+
+#headerDiv
+{
+    height: 106px;
+    width: 100%;
+    border-bottom: 2px solid black;
+    margin-bottom: 0px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+#divB
+{
+    align-items: center;
+    width: 400px;
+    margin-left: 169px;
+}
+#file
+{
+    margin: 0 auto;
+    display: block;
+    border:0px;
+    margin-top: 174px;
+    font-size: 20px;
+    margin-left:109px;
+    cursor:pointer;
+    
+
+}
+
+#readFile
+{
+    display: block;
+    margin: 0 auto;
+    background-color: #FFA041;
+    border:0px;
+    margin-top: 97px;
+    width: 195px;
+    height: 55px;
+    border-radius: 10px;
+    font-size: 20px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    cursor:pointer;
+}
+#correctFile
+{
+    display: block;
+    margin: 0 auto;
+    background-color: #FFA041;
+    border:0px;
+    width: 195px;
+    height: 55px;
+    margin-top: 97px;
+    border-radius: 10px;
+    font-size: 20px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    cursor:pointer;
+}
+#EACDiv
+{
+    background-color: #FFF;
+    width: 867px;
+    
+    border-radius: 20px;
+    margin-left: 867px;
+    margin-top:-400px;
+    height: auto +100px;
+}
+#errors
+{
+    margin-left: 140px;
+    margin-top: 50px;
+    background-color: #E7E7E7;
+    width: 500px;
+    padding: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    line-height: 50px;
+}
+#corrections
+{
+    margin-left: 140px;
+    margin-top: 50px;
+    background-color: #E7E7E7;
+    width: 500px;
+    padding: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    line-height: 50px;
+}
+#pErorrs
+{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+#pCorrections
+{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 40px;
+}
