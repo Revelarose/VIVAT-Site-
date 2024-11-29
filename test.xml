@@ -1,0 +1,1323 @@
+<data>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name></name> <!-- Ошибка: отсутствует обязательное поле "name" -->
+        <sku>54321</sku>
+        <price>300</price>
+        <discount>20</discount>
+    </item>
+    <item>
+        <name>Продукт 5</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 6</name>
+        <sku>09876</sku>
+        <price>150</price>
+        <discount>-10</discount> <!-- Ошибка: скидка ниже нуля -->
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+    <item>
+        <name>Продукт 1</name>
+        <sku>12345</sku>
+        <price>100</price>
+        <discount>10</discount>
+    </item>
+    <item>
+        <name>Продукт 2</name>
+        <sku>67890</sku>
+        <price>-50</price> <!-- Ошибка: цена ниже нуля -->
+        <discount>5</discount>
+    </item>
+    <item>
+        <name>Продукт 3</name>
+        <sku></sku> <!-- Ошибка: отсутствует обязательное поле "sku" -->
+        <price>200</price>
+        <discount>150</discount> <!-- Ошибка: скидка больше 100 -->
+    </item>
+
+</data>
