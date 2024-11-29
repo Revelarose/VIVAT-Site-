@@ -1,0 +1,170 @@
+body
+{
+    padding: 0%;
+    margin: 0%;
+    background-color: #E7E7E7;
+}
+#logoImage
+{
+    position: relative;
+    float: left;
+    height: 40px;
+    width: 164px;
+    margin-left: 129px;
+    margin-top: 26px;
+    margin-bottom: 26px;
+
+}
+#ourLogoImage
+{
+    position: relative;
+    float: left;
+    margin-left: 0px;
+    margin-top: 18px;
+    margin-bottom: 26px;
+    height: 52px;
+    width: 213px;
+}
+
+#headerDiv
+{
+    height: 106px;
+    width: 100%;
+    border-bottom: 2px solid black;
+    margin-bottom: 0px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+#divB
+{
+    align-items: center;
+    width: 400px;
+    margin-left: 60px;
+}
+#file
+{
+    margin: 0 auto;
+    display: block;
+    border:0px;
+    margin-top: 0px;
+    font-size: 20px;
+    margin-left:109px;
+    cursor:pointer;
+    
+
+}
+
+#formatImage
+{
+    width: 90%;
+    height: 90%;
+    margin-left: 160px;
+    margin-top: 50px;
+}
+
+#readFile
+{
+    display: block;
+    margin: 0 auto;
+    background-color: #FFA041;
+    border:0px;
+    margin-top: 97px;
+    width: 195px;
+    height: 55px;
+    border-radius: 10px;
+    font-size: 20px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    cursor:pointer;
+}
+#correctFile
+{
+    display: block;
+    margin: 0 auto;
+    background-color: #FFA041;
+    border:0px;
+    width: 195px;
+    height: 55px;
+    margin-top: 70px;
+    border-radius: 10px;
+    font-size: 20px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    cursor:pointer;
+}
+
+#dowloadFile
+{
+    display: block;
+    margin: 0 auto;
+    background-color: #FFA041;
+    border:0px;
+    width: 195px;
+    height: 55px;
+    margin-top: 70px;
+    border-radius: 10px;
+    font-size: 20px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    cursor:pointer;
+}
+
+#downoloadReport
+{
+    display: block;
+    margin: 0 auto;
+    background-color: #FFA041;
+    border:0px;
+    width: 195px;
+    height: 55px;
+    margin-top: 70px;
+    border-radius: 10px;
+    font-size: 20px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    cursor:pointer;
+}
+
+#EACDiv
+{
+    background-color: #FFF;
+    width: 1100px;
+    
+    border-radius: 20px;
+    border: 3px, solid rgb(124, 124, 124);
+    margin-left: 667px;
+    margin-top:-500px;
+    height: auto +100px;
+    padding-bottom: 40px;
+}
+#errors
+{
+    margin-left: 71px;
+    margin-top: 10px;
+    background-color: #E7E7E7;
+    border: 2px, solid rgb(124, 124, 124);
+    width: 860px;
+    padding: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    line-height: 50px;
+}
+#corrections
+{
+    margin-left: 71px;  
+    margin-top: 50px;
+    background-color: #E7E7E7;
+    border: 2px, solid rgb(124, 124, 124);
+    width: 860px;
+    padding: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    line-height: 50px;
+}
+#pErorrs
+{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 40px;
+}
+#pCorrections
+{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 40px;
+}
